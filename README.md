@@ -1,1 +1,2 @@
-# odoo_learning
+# odoo-school
+
